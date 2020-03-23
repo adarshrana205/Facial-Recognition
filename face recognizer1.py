@@ -1,3 +1,4 @@
+# For multiple users
 import face_recognition
 import os
 import re
