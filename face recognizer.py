@@ -1,3 +1,4 @@
+# Single user with a picture
 import face_recognition
 
 # Load the jpg file
