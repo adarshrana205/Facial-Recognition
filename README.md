@@ -1,10 +1,12 @@
 # Facial-Recognition
+### Description
 
-Technologies to be used:
+### Technologies to be used:
 
-Front-end: ReactJs(https://github.com/facebook/react)
-Back-end API: Python Flask(https://github.com/pallets/flask)
-AI model: Face_recognition(https://github.com/ageitgey/face_recognition)
-Database: PostgreSQL(https://www.postgresql.org/)
+- Front-end: ReactJs(https://github.com/facebook/react)
+- Back-end API: Python Flask(https://github.com/pallets/flask)
+- AI model: Face_recognition(https://github.com/ageitgey/face_recognition)
+- Database: PostgreSQL(https://www.postgresql.org/)
+
 
 
